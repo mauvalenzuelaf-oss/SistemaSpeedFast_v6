@@ -485,4 +485,4 @@ Actualizar tabla
 
 **Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/SistemaSpeedFast_v6
 
-**Fecha:** 21/09/2026
+**Fecha de Entrega:** 21/09/2026
